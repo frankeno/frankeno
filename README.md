@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋 Frank Eno's here!
 
-<!--
-**frankeno/frankeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![frank-kubic](https://user-images.githubusercontent.com/39766031/152482448-7701b419-1365-488b-af6f-b1d690099460.png)
 
-Here are some ideas to get you started:
+### Game & Pixel Art Maker • Mobile & Web Developer • Musician
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎮 Mystery Box: https://cutt.ly/mbevo
+- 👻 Hoppenghost: https://cutt.ly/hghost
+- 👾 Website: https://cutt.ly/xsgames
+- 🧰 ProductHunt: https://cutt.ly/producthunt
+- 💾 Gumroad: https://cutt.ly/gum-road
+- 📺 YouTube: https://cutt.ly/xsyt
+- 📮 Revue: https://cutt.ly/revue
+- 📷 Instagram: https://cutt.ly/xsinsta
+- 📻 SoundCloud: https://cutt.ly/franksc
