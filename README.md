@@ -1,21 +1,26 @@
 # Hi there 👋 Frank Eno's here!
 
-![frank-kubic](https://user-images.githubusercontent.com/39766031/152482448-7701b419-1365-488b-af6f-b1d690099460.png)
+`Game & Pixel Art Maker • Mobile & Web Developer • Musician`
 
-### Game & Pixel Art Maker • Mobile & Web Developer • Musician
-
-
+## Games
 - 🎮 Mystery Box: https://cutt.ly/mbevo
+- 🟨 Kubi: https://xsgames.co/kubi
 - 👻 Hoppenghost: https://cutt.ly/hghost
+
+## Website
 - 👾 Website: https://cutt.ly/xsgames
+
+## Side projects
 - 🧰 ProductHunt: https://cutt.ly/producthunt
+
+## Social
 - 💾 Gumroad: https://cutt.ly/gum-road
 - 📺 YouTube: https://cutt.ly/xsyt
 - 📮 Revue: https://cutt.ly/revue
 - 📷 Instagram: https://cutt.ly/xsinsta
 - 📻 SoundCloud: https://cutt.ly/franksc
 
-# Technologies & Stuff
+## Technologies & Stuff
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
