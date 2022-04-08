@@ -1,4 +1,4 @@
-# Hi there 👋 Frank Eno's here!
+# Hi there 👋 Frank Eno's here, welcome to my GitHub page!
 
 `Game & Pixel Art Maker • Mobile & Web Developer • Musician`
 
