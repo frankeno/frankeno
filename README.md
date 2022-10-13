@@ -1,6 +1,6 @@
 # Hi there 👋 Frank Eno's here, welcome to my GitHub page!
 
-`Game & Pixel Art Maker • Mobile & Web Developer • Musician`
+`Game, Mobile & Web Developer • Musician`
 
 ## Games
 - 🎮 Mystery Box: https://cutt.ly/mbevo
