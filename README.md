@@ -3,19 +3,19 @@
 `Game, Mobile & Web Developer • Musician`
 
 ## Games
-- 🎮 Mystery Box: https://cutt.ly/mbevo
+- 🎮 Mystery Box: https://xsgames.co
 - 🟨 Kubi: https://xsgames.co/kubi
 - 👻 Hoppenghost: https://cutt.ly/hghost
 
 ## Website
-- 👾 Website: https://cutt.ly/xsgames
+- 👾 Website: https://xsgames.co
 
 ## Side projects
-- 🧰 ProductHunt: https://cutt.ly/producthunt
+- 🧰 ProductHunt: https://xsgames.co/frankeno
 
 ## Social
 - 💾 Gumroad: https://cutt.ly/gum-road
-- 📺 YouTube: https://cutt.ly/xsyt
+- 📺 YouTube: https://cutt.ly/fyt
 - 📮 Revue: https://cutt.ly/revue
 - 📷 Instagram: https://cutt.ly/xsinsta
 - 📻 SoundCloud: https://cutt.ly/franksc
