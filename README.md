@@ -8,7 +8,8 @@
 - 👻 Hoppenghost: https://cutt.ly/hghost
 
 ## Website
-- 👾 Website: https://xsgames.co
+- 👾 Games: https://xsgames.co
+- Web Tools: https://xsgames.co/frankeo 
 
 ## Side projects
 - 🧰 ProductHunt: https://xsgames.co/frankeno
