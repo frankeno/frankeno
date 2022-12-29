@@ -17,7 +17,6 @@
 ## Social
 - 💾 Gumroad: https://cutt.ly/gum-road
 - 📺 YouTube: https://cutt.ly/fyt
-- 📮 Revue: https://cutt.ly/revue
 - 📷 Instagram: https://cutt.ly/xsinsta
 - 📻 SoundCloud: https://cutt.ly/franksc
 
