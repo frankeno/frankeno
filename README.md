@@ -9,10 +9,10 @@
 
 ## Website
 - 👾 Games: https://xsgames.co
-- Web Tools: https://xsgames.co/frankeo 
+- Web Tools: https://xsgames.co/frankeno
 
 ## Side projects
-- 🧰 ProductHunt: https://xsgames.co/frankeno
+- 🧰 ProductHunt: https://producthunt.com/@frankeno
 
 ## Social
 - 💾 Gumroad: https://cutt.ly/gum-road
