@@ -4,8 +4,7 @@
 
 ## Games
 - 🎮 Mystery Box: https://xsgames.co
-- 🟨 Kubi: https://xsgames.co/kubi
-- 👻 Hoppenghost: https://cutt.ly/hghost
+- ⚙️ Odd Machines: https://thinl.ink/om
 
 ## Website
 - 👾 Games: https://xsgames.co
