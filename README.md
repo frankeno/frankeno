@@ -4,11 +4,9 @@
 
 ## Games
 - 🎮 Mystery Box: https://xsgames.co
-- ⚙️ Odd Machines: https://thinl.ink/om
 
 ## Website
-- 👾 Games: https://xsgames.co
-- Web Tools: https://xsgames.co/frankeno
+- 🛠️ https://xsgames.co/frankeno
 
 ## Side projects
 - 🧰 ProductHunt: https://producthunt.com/@frankeno
