@@ -3,7 +3,7 @@
 `Game, Mobile & Web Developer • Musician`
 
 ## Games
-- 🎮 Mystery Box: https://xsgames.co
+- 🎮 https://xsgames.co
 
 ## Website
 - 🛠️ https://xsgames.co/frankeno
